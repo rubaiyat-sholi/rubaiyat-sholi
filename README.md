@@ -1,6 +1,6 @@
 <h1 align="center">Hi-ya 👋, This is Rubaiyat Sholi</h1>
 <h3 align="center">CS student from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.vectorstock.com/i/1000x1000/14/79/hijab-woman-sitting-on-the-floor-vector-40291479.webp">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/happy-student-hijab-working-laptop-empowered-business-woman-freelancer_511716-33.jpg?w=2000">
 
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**

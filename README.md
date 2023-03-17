@@ -1,11 +1,11 @@
 <h1 align="center">Hi-ya 👋, This is Rubaiyat Sholi</h1>
-<h3 align="center">CS student from Bangladesh</h3>
+<h3 align="center">CS Graduate from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/happy-student-hijab-working-laptop-empowered-business-woman-freelancer_511716-33.jpg?w=2000">
 
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
-- 📫 How to reach me **sholi.work@gmail.com**
+- 📫 How to reach me **rubaiyatsholi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi-ya 👋, This is Rubaiyat Sholi</h1>
-<h3 align="center">CS Graduate from Bangladesh</h3>
+<h3 align="center">Ph.D. Student at Louisiana State University</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/happy-student-hijab-working-laptop-empowered-business-woman-freelancer_511716-33.jpg?w=2000">
 
 

@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/happy-student-hijab-working-laptop-empowered-business-woman-freelancer_511716-33.jpg?w=2000">
 
 
-- 🌱 I’m currently learning **Data Science, Machine Learning**
+- 🌱 I’m currently learning **Large Language Models, Machine Learning**
 
 - 📫 How to reach me **rubaiyatsholi@gmail.com**
 
